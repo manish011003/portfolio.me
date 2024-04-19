@@ -3362,7 +3362,7 @@ input, select, textarea {
 	  }
 	  /*card2*/
 	  .card2 {
-		background-image: url(./images/.png);
+		background-image: url(./images/1_P8Kz2ByNOhnovNMRjqEveQ.webp);
 		background-size: cover;
 		background-position: center;
 		position: relative;
@@ -3435,7 +3435,7 @@ input, select, textarea {
 	  }
 	  /*card3*/
 	  .card3 {
-		background-image: url(./images/.png);
+		background-image: url(./images/PXL_20230915_074844325.MP.jpg);
 		background-size: cover;
 		background-position: center;
 		position: relative;
@@ -3468,7 +3468,7 @@ input, select, textarea {
 	  .cardHeader {
 		text-transform: uppercase;
 		position: relative;
-		width: max-content;
+		width: auto;
 		font-weight: bold;
 		transition: all 0.5s ease;
 	  }
